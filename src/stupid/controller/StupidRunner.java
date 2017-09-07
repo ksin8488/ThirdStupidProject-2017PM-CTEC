@@ -1,4 +1,4 @@
-package stupid.controller;
+package stupid.controller;		//runner is used to start up the program - keep simple
 
 public class StupidRunner
 {
